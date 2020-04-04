@@ -1,2 +1,2 @@
 # leetcode
-leetcode迅雷
+leetcode训练
